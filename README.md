@@ -8,7 +8,7 @@ Instructions from [the snapcraft forum](https://forum.snapcraft.io/t/running-sna
 ## Usage
 ### Run the script and commands
 ```sh
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+git clone https://github.com/hybridadmin/ubuntu-wsl2-systemd-script.git
 cd ubuntu-wsl2-systemd-script/
 sudo bash ubuntu-wsl2-systemd-script.sh
 # Enter your password and wait until the script has finished
